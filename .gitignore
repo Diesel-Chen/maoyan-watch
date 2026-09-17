@@ -1,0 +1,20 @@
+# Credentials and personal configuration
+config.local.json
+config.local.*
+.env
+.env.*
+*.pem
+*.key
+
+# Runtime data and old copies (may contain credentials)
+*.log
+*.pid
+*.lock
+*.bak
+*.tmp
+state.json
+continuous_state.json
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
