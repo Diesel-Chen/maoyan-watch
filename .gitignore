@@ -18,3 +18,9 @@ __pycache__/
 *.py[cod]
 .venv/
 .DS_Store
+
+# Local SQLite history and notification queue
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
